@@ -3,6 +3,7 @@
 #Step 1
 Navigation to the code, copy the code given in the file Dijkstra.cpp 
 Using Terminal, go to the code with cd ls commands to run a project
+or you can use rept.it/c++ to run this code
 
 #Step 2:
 Now you need to generate the output .
