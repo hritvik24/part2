@@ -1,14 +1,14 @@
 # Assignment 4
-Step 1
-navigate to the code
-open
-terminal through go using cd ls to run a project
 
-step 2:
-now generate the output
-run /output
-step 3:
-output ...execute /// ./a.out
-step4:
+#Step 1
+Navigation to the code, copy the code given in the file Dijkstra.cpp 
+Using Terminal, go to the code with cd ls commands to run a project
 
-output as you want it .
+#Step 2:
+Now you need to generate the output .
+
+#Step 3:
+After generating the output, its time to execute using ~output_file_name.out
+
+#Step4:
+The output is generated as it was given already while making the progrram
